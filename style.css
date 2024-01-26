@@ -146,6 +146,10 @@ p, dl, dd {
     font-size: 1em;
     color:#590242;
 }
+dt, dd{
+    position:relative;
+    bottom: 5px;
+}
 audio {
     position: absolute;
     bottom: 150px;
